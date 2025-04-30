@@ -1,0 +1,10 @@
+matplotlib
+numpy
+geopandas
+shapely
+cartagen == 1.0.0
+ipywidgets
+pydeck
+contextily
+mapclassify
+ipyleaflet
